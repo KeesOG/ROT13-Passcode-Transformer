@@ -1,7 +1,10 @@
 # ROT13 Passcode Transformer
 
 ## Description
-The ROT13 Passcode Transformer is a C++ program that reads a ROT13 encoded passcode, transforms it using the ROT13 cipher, and outputs the result. It’s ideal for learning basic encryption techniques and C++ string manipulation.
+The ROT13 Passcode Transformer is a C++ program that reads a ROT13 encoded passcode, transforms it using the ROT13 cipher, and outputs the result. ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet, effectively encoding and decoding messages.
+
+## Author
+KeesOG
 
 ## Features
 - Reads passcode input from the user.
